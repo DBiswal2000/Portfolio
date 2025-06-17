@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Built by Biswal",
+  title: "Dusmanta Biswal",
   description: "Aspiring web developer building responsive websites and web apps with modern technologies. Explore my projects, skills, and resume.",
 };
 

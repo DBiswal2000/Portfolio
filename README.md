@@ -20,8 +20,7 @@ A modern and responsive **resume portfolio website** built to showcase my skills
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript  
-- *(or React, Tailwind CSS, etc.)*
+- **Frontend**: HTML, CSS, JavaScript, Next.js 
 - **Deployment**: Vercel
 
 ---

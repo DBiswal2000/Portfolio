@@ -27,8 +27,6 @@ A modern and responsive **resume portfolio website** built to showcase my skills
 
 ## 📸 Screenshots
 
-*(Add a few screenshots or a GIF preview of your website here)*
-
 ---
 
 ## 📁 Folder Structure

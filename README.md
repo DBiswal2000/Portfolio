@@ -4,7 +4,7 @@ A modern and responsive **resume portfolio website** built to showcase my skills
 
 ## 🚀 Live Demo
 
-[🔗 View Live](https://yourusername.github.io) &nbsp; *(replace with your actual link)*
+[🔗 View Live](https://biswal.works) &nbsp; *(replace with your actual link)*
 
 ---
 

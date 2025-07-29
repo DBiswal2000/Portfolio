@@ -4,7 +4,7 @@ A modern and responsive **resume portfolio website** built to showcase my skills
 
 ## 🚀 Live Demo
 
-[🔗 View Live](https://biswal.works) &nbsp; *(replace with your actual link)*
+[🔗 View Live](https://biswal.works) &nbsp;
 
 ---
 
@@ -21,8 +21,8 @@ A modern and responsive **resume portfolio website** built to showcase my skills
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript  
-- *(or React, Tailwind CSS, etc. — update according to your stack)*
-- **Deployment**: GitHub Pages / Vercel / Netlify
+- *(or React, Tailwind CSS, etc.)*
+- **Deployment**: Vercel
 
 ---
 
